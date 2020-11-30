@@ -1,11 +1,13 @@
 # Authorship-attribution
 Authorship attribution in tweeting.
 
-## Stylometry
-Stylometry is the application of the study of linguistic style, usually to written language, but it has been applied successfully to music and to fine-art paintings as well. Another conceptualization defines **it as the linguistic discipline that evaluates an author's style through the application of statistical analysis to a body of their work**.
+**Authorship attribution** aim is usually to attempt to ascribe a particular piece of writing to a certain author of a set of candidates. Authorship attribution is therefore mainly on written texts or on those features of spoken texts which are shared with written texts, such as lexical choice.
 
-Stylometry is often used to attribute authorship to anonymous or disputed documents. It has legal as well as academic and literary applications, ranging from the question of the authorship of Shakespeare's works to forensic linguistics.
-[Wikipedia](https://en.wikipedia.org/wiki/Stylometry)
+
+## Stylometry
+Stylometry is a near-synonymous term to authorship attribution, dominated by attempts to identify unique authorial features by quantifying texts, usually in order to attribute authorship to anonymous or disputed texts.
+[http://thedynamiter.llc.ed.ac.uk](http://thedynamiter.llc.ed.ac.uk/?page_id=140)
+
 
 ## Test result
 ```
