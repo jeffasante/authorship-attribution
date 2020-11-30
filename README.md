@@ -1,2 +1,2 @@
 # authorship-attribution
-Authorship attribution in tweeting [ Twitter ].
+Authorship attribution in tweeting.
